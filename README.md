@@ -1,0 +1,1 @@
+# Installed-Applications-Inventory-Script
